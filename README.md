@@ -1,6 +1,6 @@
 # Parking Management System – Prague Parking
 
-## Summary
+## Overview
 
 This project involved creating a parking management system for Prague’s parking facility with a capacity of 100 vehicles. The system handles both cars and motorcycles (with two motorcycles able to share a single parking space).
 
@@ -24,3 +24,8 @@ The project resulted in a fully functional console application.
 - **Application Type:** Console application  
 - **Version Control:** Git & GitHub  
 
+**Author:** Djan Karis Lomongo Freolo 
+
+**Course:** KYHA_DSO25
+
+**Published Date:** 10-10-2025
