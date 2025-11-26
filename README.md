@@ -24,8 +24,3 @@ The project resulted in a fully functional console application.
 - **Application Type:** Console application  
 - **Version Control:** Git & GitHub  
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shiizuunee/Inl-mningsuppgift-Prague-Parking.git
